@@ -1,5 +1,5 @@
 # A Random Quote Generator
-Simple project to pagination project using js to dynamically update page content based on page number 
+Simple pagination project using js to dynamically update page content based on page number 
 
 ### Project Structure
 
